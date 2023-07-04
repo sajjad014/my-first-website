@@ -1,8 +1,10 @@
 div{
     background-color: crimson;
     margin: 20px;
-    text-align: ;
+    text-align: center;
+    padding: 30px;
 }
 h2{
     text-align: center;
+    color: chartreuse;
 }
